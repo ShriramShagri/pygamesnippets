@@ -7,7 +7,7 @@ pygame.display.set_caption('Basic Template')
 
 
 def main():
-    run = False
+    run = True
 
     while run:
         for event in pygame.event.get():
