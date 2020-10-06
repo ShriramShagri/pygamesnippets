@@ -5,7 +5,7 @@
 import pygame
 import random
 
-WIDTH, HEIGHT = 400, 400
+WIDTH, HEIGHT = 750, 750
 
 WINDOW = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Gradient')
